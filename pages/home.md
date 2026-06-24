@@ -32,7 +32,7 @@ profile:
   <div class="container">
     <div class="image-container" style="flex: 0 0 230px;">
       <a href="novel/enworld">
-        <img src="/assets/img/enworld.jpg" alt="Book Cover">
+        <img src="/assets/img/enworld-indie.png" alt="Book Cover">
         <p></p>
         <h2>Order book</h2>
         <p><a href="https://www.amazon.com/dp/163299996X">Amazon - Paperback + Kindle eBook</a></p>

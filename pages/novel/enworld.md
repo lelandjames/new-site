@@ -25,6 +25,7 @@ eleventyNavigation:
   <div class="text-container">
     <h2>ENWORLD</h2>
     <p><em>EnWorld: An Encapsulated Future</em></p>
+    <p><b>Finalist, NATIONAL INDIE EXCELLANCE AWARDS</p></b>
     <p><b>A World Ruled by Algorithms and Ambition</b></p>
     <p>A searing satire and a rallying cry, EnWorld exposes the seductive dangers of totalitarianism in the modern age and the fragile line between good and evil. For fans of Orwell, Huxley, and Bradbury, <em>EnWorld</em> pushes further into a future that mankind must avoid. As Orwell said, "Don't let it happen."</p>
     <h3>Reviews</h3>
